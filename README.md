@@ -10,7 +10,7 @@ I'm Mohd Shahzan a passionate and results-driven B.Tech student at Delhi Technol
 * ✉️  You can contact me at [m.shahzan2003@gmail.com](mailto:m.shahzan2003@gmail.com)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on New projects
-* 
+  
 
 ### Skills
 
