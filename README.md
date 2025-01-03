@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🚀 Aspiring Software Engineer
 -----------------------------
 
-I'm Mohd Shahzan a passionate and results-driven B.Tech student at Delhi Technological University. , I recently completed an intensive Data Structures and Algorithms (DSA) course, and now learning MERN stack to start my development journey .
+I'm Mohd Shahzan a passionate and results-driven B.Tech student at Delhi Technological University.<br/>
+🚀 Aspiring Software Developer | 🎓 B.Tech @ DTU (9.1 CGPA) | 💻 Full-Stack Enthusiast (React, Node.js, TypeScript) | 🌐 Blockchain & Web3 Innovator | Passionate About Crafting Scalable Digital Solutions
 
 * 🌍  I'm based in New Delhi , India
 * ✉️  You can contact me at [m.shahzan2003@gmail.com](mailto:m.shahzan2003@gmail.com)
